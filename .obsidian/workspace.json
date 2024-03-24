@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "8142bb8a07b26be2",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a4506d5b3679f1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba95bdad923a9dff",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "452f79c8412d950f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2429652c37cb2785",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7464418334983ddd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f94f19234fb08ebb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5a7501e79417e59e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ba8e98c48bbbe8ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "88a5ec2890f2d5a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe5eb788edca330a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "10a139c677ae79f5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4b57a454a8a41e85",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "99a9928f1613c099",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "cb09fc63ebdf108b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "ba95bdad923a9dff",
+  "lastOpenFiles": [
+    "Data Structure and Algorithms/src/PriorityQueue",
+    "Data Structure and Algorithms/src/新建文件夹",
+    "Data Structure and Algorithms/src/Tree",
+    "Data Structure and Algorithms/src/Set",
+    "Data Structure and Algorithms/src/Map",
+    "Data Structure and Algorithms/src/HashTable",
+    "Data Structure and Algorithms/src/Queue",
+    "Data Structure and Algorithms/src/Stack",
+    "Data Structure and Algorithms/src/DoublyLinkedList",
+    "Data Structure and Algorithms/src/Graph",
+    "Data Structure and Algorithms/src/LinkedList",
+    "Data Structure and Algorithms/Data Structure and Algorithms.md",
+    "algorithm.md",
+    "Data Structure and Algorithms/algorithm.md",
+    "README.md"
+  ]
+}
