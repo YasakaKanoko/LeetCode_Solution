@@ -2,8 +2,9 @@
 
 
 
-鸽了
 
+- <samp><a href="https://yasakakanoko.notion.site/1-Two-Sum-c56d1cff03f142ee99b47ccc52c1cb9c?pvs=4">1. Two Sum</a></samp>
+- <samp><a href="https://yasakakanoko.notion.site/1608-Special-Array-With-X-Elements-Greater-Than-or-Equal-X-cec759e749f94e79bc57475ddf5e5ebb?pvs=4">1608. Special Array With X Elements Greater Than or Equal X</a></samp>
 
 
 
